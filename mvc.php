@@ -4,7 +4,6 @@ class Model
 {	
 	public $menu;
 	public $main_title;
-	public $browser_title;
 
 	public function __construct(){
 
